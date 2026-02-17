@@ -1,0 +1,5 @@
+{
+  "name": "SentinelLLM - Threat Modeling & Benchmarking",
+  "description": "A professional-grade AI-assisted tool for threat modeling Large Language Models and benchmarking them against the OWASP Top 10 for LLMs using Gemini-3 Pro reasoning.",
+  "requestFramePermissions": []
+}
